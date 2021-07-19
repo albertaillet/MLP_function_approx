@@ -1,4 +1,4 @@
-# This script tries to see
+# This script trains a MLP to approximate x^2
 # Model source: https://sonnet.dev/
 # Number of trainable source:
 # https://stackoverflow.com/questions/38160940/how-to-count-total-number-of-trainable-parameters-in-a-tensorflow-model
